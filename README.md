@@ -27,6 +27,7 @@ Just we mentioned above, this is just a website. Just click on the link to enter
 ## Maintainers
 * [@Nikitha Vanumu](https://github.com/NikithaVanumu)
 * [@Yu Wu](https://github.com/ywuu0152)
+* [@Eli Kuo](https://github.com/Eli_Kuo)
 
 ## Contributors
 [@Carpe Diem_TP4](https://mahara.infotech.monash.edu/group/view.php?id=1941)
